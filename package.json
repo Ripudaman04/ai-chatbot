@@ -1,0 +1,8 @@
+{
+  "name": "gemini-ai-chatbot",
+  "version": "1.0.0",
+  "main": "api/gemini.js",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
